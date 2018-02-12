@@ -1,7 +1,8 @@
 version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
 options: "59c8b4ac18b2df17524a2df6840ece59"
-build_time: [1517810898, 583592000]
+build_time: [1518303946, 80476000]
 inputs:
+  "/Users/jy/Desktop/iOS Development/Tumblr/Tumblr/PhotoDetailsViewController.swift": [1518301263, 0]
   "/Users/jy/Desktop/iOS Development/Tumblr/Tumblr/AppDelegate.swift": [1517434852, 0]
-  "/Users/jy/Desktop/iOS Development/Tumblr/Tumblr/PhotoCell.swift": [1517741540, 0]
+  "/Users/jy/Desktop/iOS Development/Tumblr/Tumblr/PhotoCell.swift": [1518303262, 0]
   "/Users/jy/Desktop/iOS Development/Tumblr/Tumblr/PhotosViewController.swift": [1517810898, 0]

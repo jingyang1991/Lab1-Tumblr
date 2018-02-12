@@ -212,9 +212,18 @@ SWIFT_CLASS("_TtC6Tumblr9PhotoCell")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class NSBundle;
+
+SWIFT_CLASS("_TtC6Tumblr26PhotoDetailsViewController")
+@interface PhotoDetailsViewController : UIViewController
+- (void)viewDidLoad;
+- (void)didReceiveMemoryWarning;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class UITableView;
 @class UIRefreshControl;
-@class NSBundle;
 
 SWIFT_CLASS("_TtC6Tumblr20PhotosViewController")
 @interface PhotosViewController : UIViewController <UITableViewDataSource>
